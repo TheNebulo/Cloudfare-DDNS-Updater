@@ -31,13 +31,7 @@ This tool updates a DNS record on Cloudflare to your machine's current public IP
    cd Cloudfare-DDNS-Updater
    ```
 
-2. Run the installer as root or with sudo:
-
-    ```bash
-    sudo sh install.sh
-    ```
-
-    OR
+2. Run the installer as root or with sudo (don't forget to apply permissions):
 
     ```bash
     chmod +x install.sh
