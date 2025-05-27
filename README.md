@@ -34,8 +34,15 @@ This tool updates a DNS record on Cloudflare to your machine's current public IP
 2. Run the installer as root or with sudo:
 
     ```bash
-    sudo ./install.sh
+    sudo sh install.sh
     ```
+
+    OR
+
+    ```bash
+    chmod +x install.sh
+    sudo ./install.sh
+    ```    
 
 3. The installer will:
 
