@@ -27,8 +27,8 @@ This tool updates a DNS record on Cloudflare to your machine's current public IP
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/TheNebulo/Cloudfare-DDNS-Updater.git
-   cd Cloudfare-DDNS-Updater
+   git clone https://github.com/TheNebulo/Cloudflare-DDNS-Updater.git
+   cd Cloudflare-DDNS-Updater
    ```
 
 2. Run the installer as root or with sudo (don't forget to apply permissions):
